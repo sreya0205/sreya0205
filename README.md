@@ -43,5 +43,5 @@ I'm a final-year Computer Science student who loves bringing cute, creative idea
   <code>( o.o )</code><br>
   <code> > ^ < </code><br>
   <sub>thanks for visiting my corner of github! 🐾✨</sub>
-</p>**sreya0205/sreya0205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
