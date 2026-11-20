@@ -4,11 +4,8 @@ I'm a final-year Computer Science student who loves bringing cute, creative idea
 
 ### Tech Stack & Workflow
 
-- **Languages & Web:** Python, C, JavaScript, HTML/CSS, SQL
-- **Data & ML:** Pandas, NumPy, Scikit-learn, Google Colab
-- **AI & Vibe Coding Tools:** GitHub Copilot, Cursor / Claude Code, Gemini, AI App Builders
-- **Dev Tools:** Git, GitHub
-
+- Python · C · JavaScript · HTML/CSS · SQL · Pandas · NumPy · Scikit-learn · Git · GitHub · AI coding tools
+  
 ### Currently
 
 Finishing my Computer Science degree, building creative web projects with AI, and open to internships and entry-level roles.
