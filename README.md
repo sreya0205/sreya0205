@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 ### Hi there, I'm Sreya ❤︎
 
 I'm a final-year Computer Science student who loves bringing cute, creative ideas to life on the web. With a little help from AI and vibe coding, I enjoy building fun projects, experimenting with aesthetic designs, and learning new things along the way.
