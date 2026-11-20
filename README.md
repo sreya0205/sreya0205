@@ -1,4 +1,4 @@
-## Hi there, I'm Sreya ❤︎ <img width="400" height="300" alt="pusheencode" src="https://github.com/user-attachments/assets/43d096a5-b362-47e9-a486-47017df7fae9" />
+## Hi there, I'm Sreya ❤︎ <img width="200" height="100" alt="pusheencode" src="https://github.com/user-attachments/assets/43d096a5-b362-47e9-a486-47017df7fae9" />
  
 
 I'm a final-year Computer Science student who loves bringing cute, creative ideas to life on the web.With a little help from AI and vibe coding, I enjoy building fun projects, experimenting with aesthetic designs, and learning new things along the way.
