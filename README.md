@@ -11,9 +11,7 @@ I'm a final-year Computer Science student who loves bringing cute, creative idea
 
 ### Currently
 
-- Wrapping up my undergraduate degree in Computer Science
-- Rapidly prototyping creative web projects with AI workflows
-- Open to internships and entry-level roles
+Finishing my Computer Science degree, building creative web projects with AI, and open to internships and entry-level roles.
 
 ### Fun Facts About Me
 
