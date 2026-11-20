@@ -13,8 +13,7 @@ Finishing my Computer Science degree, building creative web projects with AI, an
 ### Fun Facts About Me
 
 - Certified cat lover 🐾: I will stop to say hi to every cat I pass
-- I love mixing technical problem-solving with cute, aesthetic web design                    <img width="400" height="300" alt="pusheencode" src="https://github.com/user-attachments/assets/13b5d1fe-b1d8-4a64-ac11-8a1b23a18d81" />
-
+- I love mixing technical problem-solving with cute, aesthetic web design                   
 - I love playing video games
 
 ### 📫 Connect With Me
